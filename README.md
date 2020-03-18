@@ -1,4 +1,4 @@
-# WELCOME!
+# WELCOME! :wave:
 
 New to the Breaking Good Project and GitHub? You've come to the right place!
 
